@@ -6,7 +6,7 @@ In this fun project, we have created two datasets corresponding to the popular B
 when it comes to recipes from West Bengal, India. I have been a long time subscriber of this channel, and in these years, I have seen it transform and grow quite a lot!
 So, I thought it would be a fun idea to explore the statistics of this channel. This project has been built in Python.
 
-## Tools
+## Tools:
 
 Programming Language:  Python  
 IDE : jupyterlabs
@@ -57,6 +57,32 @@ I wanted to understand some statistics of this channel, the findings for which I
    ![image](https://github.com/Debduti/Youtube-API-Data-Acquisition-and-Analysis/assets/58540839/e179c041-c08e-4fb0-93bc-46a445d16691)
 
    ![image](https://github.com/Debduti/Youtube-API-Data-Acquisition-and-Analysis/assets/58540839/d8d28edf-3eb5-4ba9-bd00-dc118ae92752)
+
+2. View Distribution- What's the average number of views that the channel gets? Are there any outliers with exceptionally high or low view counts? The following snapshot shows that. We
+   plotted a histogram to understand the view distribution, and we find that majority of videos have around 100 K views, with one video having 6 million views! Not surprising, considering the video
+   is for the recipe of 'Kosha Mangsho', one of the most popular Bengali delicacies. I have probably watched this video 20 times myself.
+   ![image](https://github.com/Debduti/Youtube-API-Data-Acquisition-and-Analysis/assets/58540839/43aeaa52-d81c-4a62-8a95-7b1f84d73348)
+
+3. Comment Distribution : Similar analysis to find the distribution of comment count across the videos. Majority seem to have under 200 comments, with a few videos having more than 2000 comments,
+   which is certainly unusual, but expected, given the content.
+   ![image](https://github.com/Debduti/Youtube-API-Data-Acquisition-and-Analysis/assets/58540839/fea33cba-289d-4c4f-b314-3372ac00cc6b)
+
+5. Publishing schedule: Majority of videos are published on Fridays, around 230 out of 292. Some very early videos and a shorts have been published on Wednesday, about 5, making it the least common
+   day for publishing videos. A Friday video is a good strategy to hook viewers in time for a weekend cooking session.
+   ![image](https://github.com/Debduti/Youtube-API-Data-Acquisition-and-Analysis/assets/58540839/945c8e37-7823-4610-8e84-92d5d109f3eb)
+
+7. Average Video Duration: Majority of videos span about 600 secs, about 10 mins, with a about 2-3 videos with a duration longer than 30 mins.<find vid name for longest vid>
+   ![image](https://github.com/Debduti/Youtube-API-Data-Acquisition-and-Analysis/assets/58540839/54465569-7726-4ca5-8973-c315512f9070)
+
+8. Relation between views, and like count, comment count and duration: There is quite clear positive correlation between view count , like count and comment count. Howver, no such correlation is
+   found with duration. < add heat map> and corr coeff
+   ![image](https://github.com/Debduti/Youtube-API-Data-Acquisition-and-Analysis/assets/58540839/a0673724-7d50-4889-ac20-ead15bb17b8e)
+
+10. And Finally, what are some of the most common words used in the channel , that makes it uniquely foodie and Bengali?
+   ![image](https://github.com/Debduti/Youtube-API-Data-Acquisition-and-Analysis/assets/58540839/5004bfc2-5d09-4db5-b667-64d16c7c03f4)
+
+
+
 
 
 
