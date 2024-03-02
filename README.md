@@ -49,6 +49,15 @@ The following steps were taken to clean and transform the data:
 
 The videos and the comments dataframes were loaded to two csv files.
 
-## EDA Process:
+## EDA Process and Findings:
+
+I wanted to understand some statistics of this channel, the findings for which I wil share below"
+
+1. Best and Worst Performing videos- The following graphs show the most and the least popular videos. The metric used here is **'viewCount'**
+   ![image](https://github.com/Debduti/Youtube-API-Data-Acquisition-and-Analysis/assets/58540839/e179c041-c08e-4fb0-93bc-46a445d16691)
+
+   ![image](https://github.com/Debduti/Youtube-API-Data-Acquisition-and-Analysis/assets/58540839/d8d28edf-3eb5-4ba9-bd00-dc118ae92752)
+
+
 
 
