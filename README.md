@@ -30,7 +30,7 @@ get the statistics that I was looking for. I will try to outline the steps below
    Note that the data returned by the API call is in JSON format, so I had to work with Python dictionaries to be able to store them with the correct key and values, and process them to load in to
    dataframes.
 
-## Transorm:
+## Transform:
 
 The following steps were taken to clean and transform the data:
 
