@@ -6,6 +6,11 @@ In this fun project, we have created two datasets corresponding to the popular B
 when it comes to recipes from West Bengal, India. I have been a long time subscriber of this channel, and in these years, I have seen it transform and grow quite a lot!
 So, I thought it would be a fun idea to explore the statistics of this channel. This project has been built in Python.
 
+## Tools
+
+Programming Language:  Python  
+IDE : jupyterlabs
+
 ## ETL Process:
 
 ## Extract:
@@ -43,4 +48,7 @@ The following steps were taken to clean and transform the data:
 ## Load:
 
 The videos and the comments dataframes were loaded to two csv files.
+
+## EDA Process:
+
 
