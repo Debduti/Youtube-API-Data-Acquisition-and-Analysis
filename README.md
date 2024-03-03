@@ -81,6 +81,13 @@ I wanted to understand some statistics of this channel, the findings for which I
 10. And Finally, what are some of the most common words used in the channel , that makes it uniquely foodie and Bengali?
    ![image](https://github.com/Debduti/Youtube-API-Data-Acquisition-and-Analysis/assets/58540839/5004bfc2-5d09-4db5-b667-64d16c7c03f4)
 
+## Next Steps:
+a. The next step that I have started to work on is to build a pipeline to load the transformed dataset into SQL Server tables and automate the ELT process.
+b. After the ELT is automated, I want to automate the process of serving the insights.
+
+## Credit:
+
+Youtube API analysis video from Thu Vu Analytics channel
 
 
 
